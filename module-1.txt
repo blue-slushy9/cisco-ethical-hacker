@@ -1,0 +1,13 @@
+# Online Resources
+
+https://www.hackingisnotacrime.org/
+
+https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool
+
+https://owasp.org/
+
+https://aws.amazon.com/compliance/shared-responsibility-model
+
+https://aws.amazon.com/security/penetration-testing
+
+https://github.com/The-Art-of-Hacking/h4cker/tree/master/bug-bounties
