@@ -1,0 +1,42 @@
+# Online Resources
+
+https://www.hackingisnotacrime.org/
+
+https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool
+
+https://owasp.org/
+
+https://aws.amazon.com/compliance/shared-responsibility-model
+
+https://aws.amazon.com/security/penetration-testing
+
+https://github.com/The-Art-of-Hacking/h4cker/tree/master/bug-bounties
+
+https://csrc.nist.gov/
+
+https://www.isecom.org/
+
+http://www.pentest-standard.org/
+
+https://websploit.org/
+
+https://h4cker.org/github
+
+https://www.kali.org/docs/
+
+
+
+
+# Pentesting Methodologies/Frameworks
+
+-MITRE ATT&CK
+
+-OWASP WSTG
+
+-NIST SP 800-115
+
+-OSSTMM
+
+-PTES
+
+-ISSAF
